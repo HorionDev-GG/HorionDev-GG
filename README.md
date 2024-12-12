@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HorionDev-GG
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development and web development
 - 🌱 I’m currently learning Luau and Python
 - 💞️ I’m looking to collaborate on exciting game projects
 - 😄 Pronouns: he/him
