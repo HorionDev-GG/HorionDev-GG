@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HorionDev-GG
-- 👀 I’m interested in game development and web development
-- 🌱 I’m currently learning Luau and Python
+- 👀 I’m interested in game development and app development
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on exciting game projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a fan of open-world games
